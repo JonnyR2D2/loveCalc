@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+/* @import url('./Imgs/bg2.png'); */
+
+.lurveD{
+  font-family:'Lobster', cursive;
+  font-size: 40px;
+  color:#FFDDD2;
+  text-align: center;
+  text-shadow: 4px rgb(255, 255, 255), 4px rgb(255, 255, 255), 0 rgb(255, 255, 255) 0, 0, 4px 0 0 rgb(255, 255, 255);
+}
+
+.heart{
+  width:80px;
+}
+
+.paragraph{
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  margin-bottom: 50px;
+  font-size: large;
+
+}
+
+.loveDocDiv{
+  background-image:url("./Imgs/bg2.png");
+  background-size:contain;
+  display:flex;
+  flex-direction:row-reverse ;
+  border-top:solid 10px;
+  border-bottom: 30px;
+  border-color: #3D5656;
+}
+
+.loveDoc{
+  width:60%;
+}
+
+
+.wrapper{
+  background-image:url("./Imgs/360_F_179819428_bVPDg2hnXIw5ASHKjjf5jVP7I2WPHnmj.jpg");
+  background-size: cover;
+}
+
+.paraDiv{
+  padding:20px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.submitButton{
+  padding: 10px;
+  justify-content: center;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  padding:10px;
+  background-image:url("./Imgs/download.jpg");
+  border-bottom:solid 10px;
+  border-color: #3D5656;
+}
