@@ -4,7 +4,8 @@
   background-color: blueviolet;
   border-radius: 100%;
   border:solid white;
-  width: 500px;
+  max-width: 500px;
+  min-width: 100px;
   animation: fadeIn ease 10s;
   -webkit-animation: fadeIn ease 10s;
   -moz-animation: fadeIn ease 10s;
@@ -12,12 +13,26 @@
   -ms-animation: fadeIn ease 10s;
 }
 
+@media only screen and (max-width: 600px){
+  .sweetSweetThanos{
+    max-width: 300px;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;}
+}
+
 .resultsDiv{
   text-align: center;
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
   background-image: url("./Imgs/color-smoke-background-fume-texture-ink-water-explosion-passion-spell-glowing-vibrant-magenta-pink-violet-vapor-mix-dark_279525-9332.webp");
   background-size:cover;
   border-top:solid 10px;
   border-bottom:solid 10px;
+  padding: 20px;
 }
 
 .ThanosChance{
@@ -82,5 +97,9 @@
 
 .sweetSweetThanos:fade-in{
   transition:opacity 2.5s ease;
+}
+
+html{
+  background-color:#7F167F
 }
 
