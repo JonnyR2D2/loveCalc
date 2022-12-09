@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/loveCalc/static/css/main.e7eb9310.css",
-    "main.js": "/loveCalc/static/js/main.d0703976.js",
-    "static/js/787.5215c2bc.chunk.js": "/loveCalc/static/js/787.5215c2bc.chunk.js",
-    "static/media/lovedoc.png": "/loveCalc/static/media/lovedoc.4c2b9bbd8107efe0437b.png",
-    "static/media/color-smoke-background-fume-texture-ink-water-explosion-passion-spell-glowing-vibrant-magenta-pink-violet-vapor-mix-dark_279525-9332.webp": "/loveCalc/static/media/color-smoke-background-fume-texture-ink-water-explosion-passion-spell-glowing-vibrant-magenta-pink-violet-vapor-mix-dark_279525-9332.081c02d01d6fa81ddbb6.webp",
-    "static/media/istockphoto-644349988-612x612.jpg": "/loveCalc/static/media/istockphoto-644349988-612x612.564ab29a1cd7395883dd.jpg",
-    "static/media/DZ-JQccWAAApmCX.jpg": "/loveCalc/static/media/DZ-JQccWAAApmCX.bfb33ea032396b5302e1.jpg",
-    "static/media/yg70lgwk64d91.jpg": "/loveCalc/static/media/yg70lgwk64d91.810ecdfaea3eeb53efbc.jpg",
-    "static/media/bg2.png": "/loveCalc/static/media/bg2.e614423be920419eec08.png",
-    "static/media/red-heart_2764-fe0f.png": "/loveCalc/static/media/red-heart_2764-fe0f.0559fdb31c12d76172c4.png",
-    "static/media/360_F_179819428_bVPDg2hnXIw5ASHKjjf5jVP7I2WPHnmj.jpg": "/loveCalc/static/media/360_F_179819428_bVPDg2hnXIw5ASHKjjf5jVP7I2WPHnmj.b8961ee5251723f0c041.jpg",
-    "index.html": "/loveCalc/index.html",
-    "main.e7eb9310.css.map": "/loveCalc/static/css/main.e7eb9310.css.map",
-    "main.d0703976.js.map": "/loveCalc/static/js/main.d0703976.js.map",
-    "787.5215c2bc.chunk.js.map": "/loveCalc/static/js/787.5215c2bc.chunk.js.map"
+    "main.css": "/loveCalc/App/static/css/main.0a4ebbcd.css",
+    "main.js": "/loveCalc/App/static/js/main.d6071606.js",
+    "static/js/787.5215c2bc.chunk.js": "/loveCalc/App/static/js/787.5215c2bc.chunk.js",
+    "static/media/lovedoc.png": "/loveCalc/App/static/media/lovedoc.4c2b9bbd8107efe0437b.png",
+    "static/media/color-smoke-background-fume-texture-ink-water-explosion-passion-spell-glowing-vibrant-magenta-pink-violet-vapor-mix-dark_279525-9332.webp": "/loveCalc/App/static/media/color-smoke-background-fume-texture-ink-water-explosion-passion-spell-glowing-vibrant-magenta-pink-violet-vapor-mix-dark_279525-9332.081c02d01d6fa81ddbb6.webp",
+    "static/media/istockphoto-644349988-612x612.jpg": "/loveCalc/App/static/media/istockphoto-644349988-612x612.564ab29a1cd7395883dd.jpg",
+    "static/media/DZ-JQccWAAApmCX.jpg": "/loveCalc/App/static/media/DZ-JQccWAAApmCX.bfb33ea032396b5302e1.jpg",
+    "static/media/yg70lgwk64d91.jpg": "/loveCalc/App/static/media/yg70lgwk64d91.810ecdfaea3eeb53efbc.jpg",
+    "static/media/bg2.png": "/loveCalc/App/static/media/bg2.e614423be920419eec08.png",
+    "static/media/red-heart_2764-fe0f.png": "/loveCalc/App/static/media/red-heart_2764-fe0f.0559fdb31c12d76172c4.png",
+    "static/media/360_F_179819428_bVPDg2hnXIw5ASHKjjf5jVP7I2WPHnmj.jpg": "/loveCalc/App/static/media/360_F_179819428_bVPDg2hnXIw5ASHKjjf5jVP7I2WPHnmj.b8961ee5251723f0c041.jpg",
+    "index.html": "/loveCalc/App/index.html",
+    "main.0a4ebbcd.css.map": "/loveCalc/App/static/css/main.0a4ebbcd.css.map",
+    "main.d6071606.js.map": "/loveCalc/App/static/js/main.d6071606.js.map",
+    "787.5215c2bc.chunk.js.map": "/loveCalc/App/static/js/787.5215c2bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7eb9310.css",
-    "static/js/main.d0703976.js"
+    "static/css/main.0a4ebbcd.css",
+    "static/js/main.d6071606.js"
   ]
 }
