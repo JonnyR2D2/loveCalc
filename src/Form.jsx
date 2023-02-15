@@ -45,7 +45,7 @@ const Form = ({ firstName, secondName, setFirstName, setSecondName }) => {
       <form>
         <div className = "paraDiv">
           <label className = "paragraph">
-            Please, if you can avoid molesting yourself for a moment, enter your
+            Please, enter your
             name into this BOX OF TRUTH{" "}
           </label>
           <br></br>
@@ -58,7 +58,6 @@ const Form = ({ firstName, secondName, setFirstName, setSecondName }) => {
         </div>
         <div className = "paraDiv">
           <label className = "paragraph">
-            Now, please unhook the death grasp you have on your nether regions,
             and enter the name of the person who's window your currently
             skulking behind{" "}
           </label>
