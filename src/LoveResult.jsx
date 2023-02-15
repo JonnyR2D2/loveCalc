@@ -33,7 +33,7 @@ function LoveResult({ firstName, secondName }) {
             " has a " +
             lovePercentage +
             "%" +
-            " chance with the fine piece of ass that is Thanos"}
+            " chance with Thanos"}
         </p>
         <div >
           <img className="sweetSweetThanos" id = "sweetSweetThanos" src = {img}/>
